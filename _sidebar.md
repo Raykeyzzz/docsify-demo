@@ -1,4 +1,6 @@
-* 狂神B站代码
-  * [JavaWeb](./docs/JavaWeb.md)
+狂神B站代码
+
+- [java](#java)
+- [JavaWeb](./docs/JavaWeb.md)
 
 
